@@ -1,0 +1,156 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A proclamation against thieves, robbers and vagabond persons</title>
+            <author>Scotland. Privy Council.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1687</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B05484</idno>
+            <idno type="STC">Wing S1619</idno>
+            <idno type="STC">ESTC R183354</idno>
+            <idno type="EEBO-CITATION">53981733</idno>
+            <idno type="OCLC">ocm 53981733</idno>
+            <idno type="VID">180361</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B05484)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 180361)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2826:49)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A proclamation against thieves, robbers and vagabond persons</title>
+                  <author>Scotland. Privy Council.</author>
+                  <author>Scotland. Sovereign (1685-1688 : James VII)</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by the heir of Andrew Anderson, Printer to his most sacred Majesty,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>Anno Dom. 1687.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Royal arms at head of text; initial letter.</note>
+                  <note>Dated: Given under Our Signet at Edinburgh, the thirteenth day of January 1687. And of Our Reign, the second year.</note>
+                  <note>Signed: Col. McKenzie, Cls. Sti. Concilii.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Thieves --  Legal status, laws, etc. --  Scotland --  Early works to 1800.</term>
+               <term>Tramps --  Legal status, laws, etc. --  Scotland --  Early works to 1800.</term>
+               <term>Scotland --  Politics and government --  1660-1688 --  Sources.</term>
+               <term>Broadsides --  Scotland --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="royal_proclamation">
+            <pb facs="tcp:180361:1"/>
+            <!-- PDF PAGE 8 -->
+            <pb facs="tcp:180361:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 8 -->
+            <head>
+               <figure>
+                  <head>I<hi rend="sup">7</hi> R</head>
+                  <q>HONI SOIT QUI MAL Y PENSE</q>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+               </figure>
+            </head>
+            <head>
+               <hi>A PROCLAMATION,</hi> Againſt Thieves, Robbers and Vagabond Perſons.</head>
+            <opener>
+               <signed>
+                  <hi>
+                     <seg rend="decorInit">I</seg>AMES,</hi> by the Grace of GOD, King of <hi>Great-Britain, France</hi> and <hi>Ireland,</hi> Defender of the Faith,</signed>
+               <salute>To Our Lyon King at Arms, and his brethren Heraulds, Macers of Our Privy Coun<g ref="char:EOLhyphen"/>cil, Purſevants, or Meſſengers at Arms, Our Sheriffs in that part, conjunctly and ſeverally, ſpecially conſtitute, Greeting:</salute>
+            </opener>
+            <p>Foraſmuch as We are Informed, That divers Louſe, and Vagabond Per<g ref="char:EOLhyphen"/>ſons, Thieves and Robbers, do paſs up and down this Kingdom, and even within this Our Capital City of <hi>Edinburgh,</hi> and other Our Burghs, and there, and on Our High-ways, by day and night, do not only Rob, Beat, and Abuſe Our Innocent Subjects, but ſometimes enter into their Houſes and Shops under Silence and Cloud of Night, to that purpoſe: We therefore for preventing of ſuch abuſes for the future, Do, With Advice of Our Privy Council, Hereby ſtrictly Require and Command, all Our Sheriffs, Stewarts, Magiſtrats of Burghs, and others in Authority under Us, to uſe their outmoſt endeavours for Diſcovering and Apprehending the ſaids Louſe and Vagabond Perſons, Thieves and Robbers, their Accomplices and Abetters, and others ſuſpect guilty of Harbouring, Reſetting, or Entertaining of them, as they ſhall be found within their Reſpective Bounds and Juriſdictions, and to ſecure their Perſons in Firmance, until they be brought to a Legal Tryal, and Puniſhed or Acquit (according to Our Laws) for the ſaids Crimes, as they will be anſwerable. And for the better Diſcovery of ſuch Louſe and Vagabond Perſons, Thieves and Robbers, We, with Advice foreſaid, Do allow any of the perſons acceſſory, or who ſhall be acceſſory to the ſaids Crimes, to come in and Diſcover their Accomplices, Re<g ref="char:EOLhyphen"/>ſetters, Harbourers, or Abetters (ſo as ſome of them may be found out) to Our Privy Council, or the neareſt Magi<g ref="char:EOLhyphen"/>ſtrat without any hazard; Declaring hereby, that upon their performance thereof, they themſelves ſhall be free of all Proceſſes, Civil or Criminal, upon the account foreſaid in all time coming. And if any other perſon, not con<g ref="char:EOLhyphen"/>cerned with the ſaids perſons in their Guilt, ſhall Apprehend, or ſo Diſcover them, as that they ſhall be Apprehended, We hereby enſure them of a ſuitable Reward to be payed forth of Our Theſaury, according to their Pains and Diligence. And We further hereby fully and amply Pardon and Imdemnifie all Our good Subjects who ſhall be aſſiſting herein, as to any Blood, Slaughter, Mutilation, or other Inconveniencies that may follow, either in purſuit of the ſaids Louſe and Vaga<g ref="char:EOLhyphen"/>bond Perſons, Thieves and Robbers, and their Accomplices or Aſſiſtants, or apprehending of them now, and in all time coming, and Declares them free of all Proceſs Criminal, or Civil, upon that account; And that Our Pleaſure in the Premiſſes may be known and obeyed, Our Will is, and We Charge you ſtrictly and Command, that incontinent theſe Our Letters ſeen, ye paſs to the Mercat-Croſs of <hi>Edinburgh,</hi> and whole other remanent Mercat-Croſſes of the Head-Burghs of the Shires of this Kingdom, and there, in our Royal Name and Authority, by open Proclamation, make publication of Our Pleaſure in the Premiſſes, that all perſons concerned may take exact notice thereof, and give punctual obedience thereto, and that none may pretend Ignorance.</p>
+            <closer>
+               <dateline>Given under Our Signet, at <hi>Edinburgh,</hi> 
+                  <date>the thirteenth day of <hi>January</hi> 1687. And of Our Reign, the ſecond Year.</date>
+               </dateline> 
+               <signed>Per actum Dominorum Secreti Concilii.
+<hi>COL. M<hi rend="sup">c</hi>KENȜIE,</hi> Cls. Sti. Concilii.</signed>
+               <lb/>
+GOD ſave the KING.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Edinburgh,</hi> Printed by the Heir of <hi>Andrew Anderſon,</hi> Printer to His moſt Sacred <hi>Majeſty, Anno DOM.</hi> 1687.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
